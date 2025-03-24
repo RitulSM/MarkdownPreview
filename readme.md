@@ -15,4 +15,4 @@ A **live Markdown previewer** that converts Markdown syntax into formatted HTML 
 
 🚀 Deployment
 This project is hosted on Netlify.
-🔗 Live Demo (Replace with your actual Netlify URL!)
+🔗 Live Demo (https://mdandcodepreview.netlify.app/)
